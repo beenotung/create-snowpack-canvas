@@ -4,6 +4,13 @@ Setup simple template with snowpack to get started with typescript and full-scre
 
 [![npm Package Version](https://img.shields.io/npm/v/create-snowpack-canvas)](https://www.npmjs.com/package/create-snowpack-canvas)
 
+## Usage
+```bash
+npm init snowpack-canvas [project-name]
+# or
+npx create-snowpack-canvas [project-name]
+```
+
 ## License
 
 This project is licensed with [BSD-2-Clause](./LICENSE)
