@@ -23,6 +23,14 @@
   "bin": {
     "create-snowpack-canvas": "cli.js"
   },
+  "files": [
+    "template/src",
+    "template/.gitignore",
+    "template/.prettierrc",
+    "template/package.json",
+    "template/snowpack.config.js",
+    "template/tsconfig.json"
+  ],
   "scripts": {
     "test": "tsc --noEmit",
     "build": "tsc -p ."
