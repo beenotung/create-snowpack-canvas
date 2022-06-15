@@ -1,0 +1,5 @@
+core.js
+node_modules/
+pnpm-lock.yaml
+cli.js
+*.tsbuildinfo
