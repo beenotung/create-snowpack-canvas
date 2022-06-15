@@ -1,6 +1,6 @@
 {
   "name": "create-snowpack-canvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Setup simple template with snowpack to get started with typescript and full-screen canvas quickly.",
   "keywords": [
     "starter-kit",
