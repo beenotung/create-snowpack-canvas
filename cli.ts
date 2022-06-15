@@ -7,7 +7,7 @@ async function main() {
   let dest = await getDest()
   let srcDir = join(__dirname, 'template')
   console.log('Copying snowpack-canvas template to:', dest, '...')
-  copyTemplate({ srcDir, dest, updatePackageJson: false })
+  await copyTemplate({ srcDir, dest, updatePackageJson: false })
   console.log(
     `
 Done.
